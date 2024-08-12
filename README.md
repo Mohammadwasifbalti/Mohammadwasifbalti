@@ -1,4 +1,5 @@
 # Hi there, I'm Mohammad Wasif 👋
+![](https://komarev.com/ghpvc/?username=Mohammadwasifbalti)
 
 ## 🚀 About Me
 
