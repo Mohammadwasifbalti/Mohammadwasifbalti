@@ -20,7 +20,6 @@ Software Engineer | Full Stack Developer | React Native Mobile Application | Nod
 ![API Calling](https://img.shields.io/badge/API%20Calling-Expert-2E8B57?logo=api)
 ![Dynamodb](https://img.shields.io/badge/Dynamodb-Expert-blue?logo=dynamoDb&logoColor=white)
 ![Data Mapping](https://img.shields.io/badge/Data%20Mapping-Expert-6A5ACD?logo=data)
-![Java](https://img.shields.io/badge/Java-Junior--Level-007396?logo=java)
 ![C#](https://img.shields.io/badge/C%23-Junior--Level-239120?logo=c%20sharp)
 ![C++](https://img.shields.io/badge/C++-Mid--Level-00599C?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-MidLevel-3776AB?logo=python)
